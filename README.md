@@ -1,2 +1,2 @@
-# References
-List of References in a natbib .bib TeX file
+# TeX
+Supplementary files for typesetting TeX documents
